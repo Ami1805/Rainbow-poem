@@ -3,4 +3,5 @@ blue
 pink
 green
 yellow
+black
 All these color are for rainbow
